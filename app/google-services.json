@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "309207735053",
+    "firebase_url": "https://faceauth-6c070.firebaseio.com",
+    "project_id": "faceauth-6c070",
+    "storage_bucket": "faceauth-6c070.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309207735053:android:e3b8e8e948857247522e44",
+        "android_client_info": {
+          "package_name": "com.example.faceauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309207735053-2guesjtoasvjhe35e1c3rmmb3pb4o5ab.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.faceauth",
+            "certificate_hash": "e1d280132b56ced566caf17fa9310f7f64648f5d"
+          }
+        },
+        {
+          "client_id": "309207735053-mdvaoupuusv0122l8uveea7i0o41hpmt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5UiQQVY6y5HVdhckYJhE81vGYeLbdNGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309207735053-mdvaoupuusv0122l8uveea7i0o41hpmt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
